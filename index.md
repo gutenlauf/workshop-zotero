@@ -1,15 +1,15 @@
 ---
-title: Lesson Template
+title: Introduction to Zotero
 layout: lesson-content
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+In this workshop we will learn how to use Zotero to organize our source, create citations and a reference page.
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+# {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Image @ Lum3n via canva.com" width="75%" %}
 
-*Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
+
+# Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
 Host it for free on GitHub with gh-pages, and share!
 Fun!
 
