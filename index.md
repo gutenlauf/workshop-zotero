@@ -9,10 +9,6 @@ In this workshop we will learn how to use Zotero to organize our source, create 
 
 
 
-# Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
 
-{% include toc.html %}
 
 {% include template/credits.html %}
