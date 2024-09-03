@@ -1,6 +1,5 @@
 ---
-section_id: Get Started
-nav_order: 1
+nav_order: 2
 title: Why use Zotero
 ---
 
