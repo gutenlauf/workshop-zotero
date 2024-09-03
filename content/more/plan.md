@@ -1,5 +1,5 @@
 ---
-section: Customize
+
 nav_order: 
 title: Lesson Plan Template
 topics: Learning Objectives; Assignments
