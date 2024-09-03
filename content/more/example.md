@@ -1,5 +1,5 @@
 ---
-section_id: Customize
+
 nav_order: 
 title: Example Page 
 topics: Example Topic; Another Example
