@@ -3,11 +3,11 @@ nav_order: 5
 title: Reference & Resources
 ---
 
+<br>
 
-<ul>
-<li>[Zotero Documentation](https://www.zotero.org/support/)</li>
-<li>[Upgrade your individual Zotero subscription](https://www.zotero.org/storage)</li>  
-</ul>
+- [Zotero Documentation](https://www.zotero.org/support/)
+- [Upgrade your individual Zotero subscription](https://www.zotero.org/storage)
+
 
 <br>
 <br>
