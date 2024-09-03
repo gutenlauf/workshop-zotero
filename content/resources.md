@@ -9,7 +9,8 @@ title: Reference & Resources
 <li>[Upgrade your individual Zotero subscription](https://www.zotero.org/storage)</li>  
 </ul>
 
-
+<br>
+<br>
 
 ## Locating your Zotero Data
 
